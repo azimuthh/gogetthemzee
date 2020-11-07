@@ -3,7 +3,9 @@ package firstProject;
 public class FirstClass {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		System.out.println("First commit from local master");
+		System.out.println("Second line of codes");
 
 	}
 
